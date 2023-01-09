@@ -2,6 +2,7 @@
 Ini Untuk Pengumpulan Tubes PBO
 
 Link Google Drive Diagram Beserta Laporan :
+https://drive.google.com/drive/folders/1nc4OBUB_WCXb9fYsPq333kpC6zouDiS-
 
 Instruksi Untuk Menjalankan File Project :
 1. Buka NetBeans lalu buka Import Project dan Import From Zip lalu pilih SendToIn.zip.
